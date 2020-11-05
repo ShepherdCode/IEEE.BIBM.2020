@@ -1,0 +1,35 @@
+Thu Oct 22 16:07:24 EDT 2020
+oneline(non-coding)
+Sequences_input:  48479
+Sequences_output:  48180
+oneline(protein-coding)
+Sequences_input:  100566
+Sequences_output:  100193
+test_set_aside(non-coding)
+Genes_to_test_set:  1000
+Output_file:  test_genes.ncRNA.gc34.fasta
+Output_sequences:  2583
+Output_file:  ncRNA.gc34.unprocessed.fasta
+Output_sequences:  45597
+test_set_aside(protein-coding)
+Genes_to_test_set:  1000
+Output_file:  test_genes.pcRNA.gc34.fasta
+Output_sequences:  4874
+Output_file:  pcRNA.gc34.unprocessed.fasta
+Output_sequences:  95319
+process(non-coding)
+Infile:  ncRNA.gc34.unprocessed.fasta
+Input_Deflines:  45597
+Input_Genes:  16794
+Input_Transcripts:  45597
+Retained_Transcripts:  16794
+Transcripts_After_Remove_Dupes:  16742
+Output_sequences:  16000
+process(protein-coding)
+Infile:  pcRNA.gc34.unprocessed.fasta
+Input_Deflines:  95319
+Input_Genes:  19232
+Input_Transcripts:  95319
+Retained_Transcripts:  19232
+Transcripts_After_Remove_Dupes:  19170
+Output_sequences:  16000
