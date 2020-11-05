@@ -1,7 +1,4 @@
-# Jupyter Notebooks
-## Paper:
-Exploring Neural Network Models for LncRNA Sequence Identification.  
-Jason Rafe Miller & Donald A. Adjeroh.
+# Jupyter notebooks by table.
 
 ## Table I:
 See data.
